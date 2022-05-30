@@ -37,7 +37,7 @@ $(document).ready(function(){
 $('.slider').slick({
   slidesToScroll: 1,
   focusOnSelect: true,
-  autoplay: true,
+  autoplay: false,
   autoplaySpeed:800,
   infinite: true,
   dots: true,
