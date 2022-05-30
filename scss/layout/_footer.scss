@@ -102,7 +102,15 @@
                         
                         @include breakpoint(mobile-max){
                             font-size: 1rem;
+                            font-size: .8rem;
+                          
                         }
+                        @include breakpoint(portrait-mobile-max) {
+
+                          padding: 1rem 1rem;
+
+                        }
+                       
                         }
                         
 

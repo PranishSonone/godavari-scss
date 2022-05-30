@@ -38,7 +38,7 @@ $('.slider').slick({
   slidesToScroll: 1,
   focusOnSelect: true,
   autoplay: true,
-  autoplaySpeed:800,
+  autoplaySpeed:1000,
   infinite: true,
   dots: true,
   arrow: true,

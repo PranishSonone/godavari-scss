@@ -68,6 +68,7 @@
         font-size: 15.1rem;
         font-weight: bold;
         font-family: 'Poppins', sans-serif;
+        z-index: -1;
 
         @include breakpoint(ipad-max) {
             padding-top: 3rem;
